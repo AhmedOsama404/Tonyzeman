@@ -1,0 +1,14 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\src",
+    "\\src\\app",
+    "\\src\\app\\Components",
+    "\\src\\app\\Components\\Product",
+    "\\src\\app\\Components\\Product\\product-create",
+    "\\src\\app\\Components\\Product\\product-edit",
+    "\\src\\app\\Components\\Product\\product-view",
+    "\\src\\app\\Components\\signup"
+  ],
+  "PreviewInSolutionExplorer": false
+}

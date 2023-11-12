@@ -1,0 +1,60 @@
+<div class="outer" [@fadeInOut]>
+    <div class="mt-5">
+        <mat-card class="mat-elevation-z3  p-5 col-9 m-auto" style="background-color: rgba(252, 254, 253, 0.5);">
+            <mat-card-header class="d-flex justify-content-center">
+          
+              <img mat-card-avatar src="../../../../assets/users-svgrepo-com.svg" />
+          
+              <mat-card-title>Customers</mat-card-title>
+              <mat-card-subtitle>List of customers</mat-card-subtitle>
+            </mat-card-header>
+
+            <mat-card-content style="background-color: rgba(252, 254, 253, 0.3);">
+              <div class="d-flex justify-content-end">
+                <a mat-mini-fab [routerLink]="['/customer-create']">
+                  <mat-icon>add</mat-icon>
+                </a>
+              </div>
+              
+              <mat-table [dataSource]="dataSource" matSort style="background-color: rgba(252, 254, 253, 0.3);">
+                <ng-container matColumnDef="customerName">
+                  <mat-header-cell *matHeaderCellDef mat-sort-header>Customer Name</mat-header-cell>
+                  <mat-cell *matCellDef="let element">{{element.customerName}}</mat-cell>
+          
+                </ng-container>
+                <ng-container matColumnDef="address">
+                  <mat-header-cell *matHeaderCellDef mat-sort-header>Address</mat-header-cell>
+                  <mat-cell *matCellDef="let element">{{element.address}}</mat-cell>
+          
+                </ng-container>
+          
+                <ng-container matColumnDef="email">
+                  <mat-header-cell *matHeaderCellDef mat-sort-header>Type</mat-header-cell>
+                  <mat-cell *matCellDef="let element">{{element.email}}</mat-cell>
+          
+                </ng-container>
+
+
+                <ng-container matColumnDef="actions" >
+                  <mat-header-cell *matHeaderCellDef mat-sort-header class="d-flex justify-content-center">Actions</mat-header-cell>
+                  <mat-cell *matCellDef="let element" class="d-flex justify-content-center">
+                    <a [routerLink]="['/customer-edit', element.customerID]"><mat-icon>edit</mat-icon></a>
+                    <button [disabled]="!element.canDelete" mat-icon-button color="accent" (click)="confirmDelete(element)"><mat-icon>delete</mat-icon></button>
+                  </mat-cell>
+          
+                </ng-container>
+                <mat-header-row *matHeaderRowDef="columnList"></mat-header-row>
+                <mat-row *matRowDef="let row; columns: columnList;"></mat-row>
+          
+              </mat-table>
+              <mat-paginator [pageSizeOptions]="[5, 10, 20, 40]" [pageSize]="5" showFirstLastButtons style="background-color: rgba(252, 254, 253, 0.3);"></mat-paginator>
+          
+            </mat-card-content>
+          </mat-card>
+          
+        
+    </div>
+
+
+
+</div>

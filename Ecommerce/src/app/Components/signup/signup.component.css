@@ -1,0 +1,42 @@
+ /* Title */
+
+ h1 {
+    position: relative;
+    font-size: 4rem;
+    font-family: 'Roboto', sans-serif;
+    text-transform: uppercase;
+    color: #FFD700;
+    text-shadow: 2px 2px #FF4500;
+  }
+  
+  h1::after {
+    content: attr(data-text);
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 0;
+    color: #FFFFFF;
+    text-shadow: 2px 2px #000000;
+    overflow: hidden;
+    animation: revealText 3s ease infinite;
+  }
+  
+  @keyframes revealText {
+    from {
+      width: 0;
+    }
+    to {
+      width: 100%;
+    }
+  }
+
+
+  /* a{
+    text-decoration: none;
+  }
+
+  a:hover {
+      text-decoration: underline;
+  } */
+
+  

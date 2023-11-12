@@ -1,0 +1,119 @@
+F:\Task\WebAPI\EcommerceAPI\EcommerceRepositories\bin\Debug\net6.0\EcommerceRepositories.deps.json
+F:\Task\WebAPI\EcommerceAPI\EcommerceRepositories\bin\Debug\net6.0\EcommerceRepositories.dll
+F:\Task\WebAPI\EcommerceAPI\EcommerceRepositories\bin\Debug\net6.0\EcommerceRepositories.pdb
+F:\Task\WebAPI\EcommerceAPI\EcommerceRepositories\obj\Debug\net6.0\EcommerceRepositories.csproj.AssemblyReference.cache
+F:\Task\WebAPI\EcommerceAPI\EcommerceRepositories\obj\Debug\net6.0\EcommerceRepositories.GeneratedMSBuildEditorConfig.editorconfig
+F:\Task\WebAPI\EcommerceAPI\EcommerceRepositories\obj\Debug\net6.0\EcommerceRepositories.AssemblyInfoInputs.cache
+F:\Task\WebAPI\EcommerceAPI\EcommerceRepositories\obj\Debug\net6.0\EcommerceRepositories.AssemblyInfo.cs
+F:\Task\WebAPI\EcommerceAPI\EcommerceRepositories\obj\Debug\net6.0\EcommerceRepositories.csproj.CoreCompileInputs.cache
+F:\Task\WebAPI\EcommerceAPI\EcommerceRepositories\obj\Debug\net6.0\EcommerceRepositories.dll
+F:\Task\WebAPI\EcommerceAPI\EcommerceRepositories\obj\Debug\net6.0\refint\EcommerceRepositories.dll
+F:\Task\WebAPI\EcommerceAPI\EcommerceRepositories\obj\Debug\net6.0\EcommerceRepositories.pdb
+F:\Task\WebAPI\EcommerceAPI\EcommerceRepositories\obj\Debug\net6.0\ref\EcommerceRepositories.dll
+F:\Task\WebAPI\EcommerceAPI\EcommerceRepositories\bin\Debug\net6.0\EcommerceInterfaces.dll
+F:\Task\WebAPI\EcommerceAPI\EcommerceRepositories\bin\Debug\net6.0\EcommerceModels.dll
+F:\Task\WebAPI\EcommerceAPI\EcommerceRepositories\bin\Debug\net6.0\EcommerceInterfaces.pdb
+F:\Task\WebAPI\EcommerceAPI\EcommerceRepositories\bin\Debug\net6.0\EcommerceModels.pdb
+F:\Task\WebAPI\EcommerceAPI\EcommerceRepositories\obj\Debug\net6.0\EcommerceRepositories.csproj.CopyComplete
+F:\Task\WebAPI\LatestAPI\EcommerceRepositories\bin\Debug\net6.0\EcommerceRepositories.deps.json
+F:\Task\WebAPI\LatestAPI\EcommerceRepositories\bin\Debug\net6.0\EcommerceRepositories.dll
+F:\Task\WebAPI\LatestAPI\EcommerceRepositories\bin\Debug\net6.0\EcommerceRepositories.pdb
+F:\Task\WebAPI\LatestAPI\EcommerceRepositories\bin\Debug\net6.0\EcommerceInterfaces.dll
+F:\Task\WebAPI\LatestAPI\EcommerceRepositories\bin\Debug\net6.0\EcommerceModels.dll
+F:\Task\WebAPI\LatestAPI\EcommerceRepositories\bin\Debug\net6.0\EcommerceInterfaces.pdb
+F:\Task\WebAPI\LatestAPI\EcommerceRepositories\bin\Debug\net6.0\EcommerceModels.pdb
+F:\Task\WebAPI\LatestAPI\EcommerceRepositories\obj\Debug\net6.0\EcommerceRepositories.csproj.AssemblyReference.cache
+F:\Task\WebAPI\LatestAPI\EcommerceRepositories\obj\Debug\net6.0\EcommerceRepositories.GeneratedMSBuildEditorConfig.editorconfig
+F:\Task\WebAPI\LatestAPI\EcommerceRepositories\obj\Debug\net6.0\EcommerceRepositories.AssemblyInfoInputs.cache
+F:\Task\WebAPI\LatestAPI\EcommerceRepositories\obj\Debug\net6.0\EcommerceRepositories.AssemblyInfo.cs
+F:\Task\WebAPI\LatestAPI\EcommerceRepositories\obj\Debug\net6.0\EcommerceRepositories.csproj.CoreCompileInputs.cache
+F:\Task\WebAPI\LatestAPI\EcommerceRepositories\obj\Debug\net6.0\EcommerceRepositories.csproj.CopyComplete
+F:\Task\WebAPI\LatestAPI\EcommerceRepositories\obj\Debug\net6.0\EcommerceRepositories.dll
+F:\Task\WebAPI\LatestAPI\EcommerceRepositories\obj\Debug\net6.0\refint\EcommerceRepositories.dll
+F:\Task\WebAPI\LatestAPI\EcommerceRepositories\obj\Debug\net6.0\EcommerceRepositories.pdb
+F:\Task\WebAPI\LatestAPI\EcommerceRepositories\obj\Debug\net6.0\ref\EcommerceRepositories.dll
+F:\Task\WebAPI\Perfect\EcommerceRepositories\bin\Debug\net6.0\EcommerceRepositories.deps.json
+F:\Task\WebAPI\Perfect\EcommerceRepositories\bin\Debug\net6.0\EcommerceRepositories.dll
+F:\Task\WebAPI\Perfect\EcommerceRepositories\bin\Debug\net6.0\EcommerceRepositories.pdb
+F:\Task\WebAPI\Perfect\EcommerceRepositories\bin\Debug\net6.0\EcommerceInterfaces.dll
+F:\Task\WebAPI\Perfect\EcommerceRepositories\bin\Debug\net6.0\EcommerceModels.dll
+F:\Task\WebAPI\Perfect\EcommerceRepositories\bin\Debug\net6.0\EcommerceInterfaces.pdb
+F:\Task\WebAPI\Perfect\EcommerceRepositories\bin\Debug\net6.0\EcommerceModels.pdb
+F:\Task\WebAPI\Perfect\EcommerceRepositories\obj\Debug\net6.0\EcommerceRepositories.csproj.AssemblyReference.cache
+F:\Task\WebAPI\Perfect\EcommerceRepositories\obj\Debug\net6.0\EcommerceRepositories.GeneratedMSBuildEditorConfig.editorconfig
+F:\Task\WebAPI\Perfect\EcommerceRepositories\obj\Debug\net6.0\EcommerceRepositories.AssemblyInfoInputs.cache
+F:\Task\WebAPI\Perfect\EcommerceRepositories\obj\Debug\net6.0\EcommerceRepositories.AssemblyInfo.cs
+F:\Task\WebAPI\Perfect\EcommerceRepositories\obj\Debug\net6.0\EcommerceRepositories.csproj.CoreCompileInputs.cache
+F:\Task\WebAPI\Perfect\EcommerceRepositories\obj\Debug\net6.0\EcommerceRepositories.csproj.CopyComplete
+F:\Task\WebAPI\Perfect\EcommerceRepositories\obj\Debug\net6.0\EcommerceRepositories.dll
+F:\Task\WebAPI\Perfect\EcommerceRepositories\obj\Debug\net6.0\refint\EcommerceRepositories.dll
+F:\Task\WebAPI\Perfect\EcommerceRepositories\obj\Debug\net6.0\EcommerceRepositories.pdb
+F:\Task\WebAPI\Perfect\EcommerceRepositories\obj\Debug\net6.0\ref\EcommerceRepositories.dll
+G:\Ecommerce\EcommerceAPI\EcommerceRepositories\bin\Debug\net6.0\EcommerceRepositories.deps.json
+G:\Ecommerce\EcommerceAPI\EcommerceRepositories\bin\Debug\net6.0\EcommerceRepositories.dll
+G:\Ecommerce\EcommerceAPI\EcommerceRepositories\bin\Debug\net6.0\EcommerceRepositories.pdb
+G:\Ecommerce\EcommerceAPI\EcommerceRepositories\bin\Debug\net6.0\EcommerceInterfaces.dll
+G:\Ecommerce\EcommerceAPI\EcommerceRepositories\bin\Debug\net6.0\EcommerceModels.dll
+G:\Ecommerce\EcommerceAPI\EcommerceRepositories\bin\Debug\net6.0\EcommerceInterfaces.pdb
+G:\Ecommerce\EcommerceAPI\EcommerceRepositories\bin\Debug\net6.0\EcommerceModels.pdb
+G:\Ecommerce\EcommerceAPI\EcommerceRepositories\obj\Debug\net6.0\EcommerceRepositories.csproj.AssemblyReference.cache
+G:\Ecommerce\EcommerceAPI\EcommerceRepositories\obj\Debug\net6.0\EcommerceRepositories.GeneratedMSBuildEditorConfig.editorconfig
+G:\Ecommerce\EcommerceAPI\EcommerceRepositories\obj\Debug\net6.0\EcommerceRepositories.AssemblyInfoInputs.cache
+G:\Ecommerce\EcommerceAPI\EcommerceRepositories\obj\Debug\net6.0\EcommerceRepositories.AssemblyInfo.cs
+G:\Ecommerce\EcommerceAPI\EcommerceRepositories\obj\Debug\net6.0\EcommerceRepositories.csproj.CoreCompileInputs.cache
+G:\Ecommerce\EcommerceAPI\EcommerceRepositories\obj\Debug\net6.0\EcommerceRepositories.csproj.CopyComplete
+G:\Ecommerce\EcommerceAPI\EcommerceRepositories\obj\Debug\net6.0\EcommerceRepositories.dll
+G:\Ecommerce\EcommerceAPI\EcommerceRepositories\obj\Debug\net6.0\refint\EcommerceRepositories.dll
+G:\Ecommerce\EcommerceAPI\EcommerceRepositories\obj\Debug\net6.0\EcommerceRepositories.pdb
+G:\Ecommerce\EcommerceAPI\EcommerceRepositories\obj\Debug\net6.0\ref\EcommerceRepositories.dll
+C:\Users\Ahmed Osama\Desktop\New folder (3)\Ecommerce-master\Ecommerce-master\EcommerceAPI\EcommerceRepositories\obj\Debug\net6.0\EcommerceRepositories.csproj.AssemblyReference.cache
+C:\Users\Ahmed Osama\Desktop\New folder (3)\Ecommerce-master\Ecommerce-master\EcommerceAPI\EcommerceRepositories\obj\Debug\net6.0\EcommerceRepositories.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ahmed Osama\Desktop\New folder (3)\Ecommerce-master\Ecommerce-master\EcommerceAPI\EcommerceRepositories\obj\Debug\net6.0\EcommerceRepositories.AssemblyInfoInputs.cache
+C:\Users\Ahmed Osama\Desktop\New folder (3)\Ecommerce-master\Ecommerce-master\EcommerceAPI\EcommerceRepositories\obj\Debug\net6.0\EcommerceRepositories.AssemblyInfo.cs
+C:\Users\Ahmed Osama\Desktop\New folder (3)\Ecommerce-master\Ecommerce-master\EcommerceAPI\EcommerceRepositories\obj\Debug\net6.0\EcommerceRepositories.csproj.CoreCompileInputs.cache
+C:\Users\Ahmed Osama\Desktop\New folder (3)\Ecommerce-master\Ecommerce-master\EcommerceAPI\EcommerceRepositories\obj\Debug\net6.0\EcommerceRepositories.dll
+C:\Users\Ahmed Osama\Desktop\New folder (3)\Ecommerce-master\Ecommerce-master\EcommerceAPI\EcommerceRepositories\obj\Debug\net6.0\refint\EcommerceRepositories.dll
+C:\Users\Ahmed Osama\Desktop\New folder (3)\Ecommerce-master\Ecommerce-master\EcommerceAPI\EcommerceRepositories\obj\Debug\net6.0\EcommerceRepositories.pdb
+C:\Users\Ahmed Osama\Desktop\New folder (3)\Ecommerce-master\Ecommerce-master\EcommerceAPI\EcommerceRepositories\bin\Debug\net6.0\EcommerceRepositories.deps.json
+C:\Users\Ahmed Osama\Desktop\New folder (3)\Ecommerce-master\Ecommerce-master\EcommerceAPI\EcommerceRepositories\bin\Debug\net6.0\EcommerceRepositories.dll
+C:\Users\Ahmed Osama\Desktop\New folder (3)\Ecommerce-master\Ecommerce-master\EcommerceAPI\EcommerceRepositories\bin\Debug\net6.0\EcommerceRepositories.pdb
+C:\Users\Ahmed Osama\Desktop\New folder (3)\Ecommerce-master\Ecommerce-master\EcommerceAPI\EcommerceRepositories\bin\Debug\net6.0\EcommerceInterfaces.dll
+C:\Users\Ahmed Osama\Desktop\New folder (3)\Ecommerce-master\Ecommerce-master\EcommerceAPI\EcommerceRepositories\bin\Debug\net6.0\EcommerceModels.dll
+C:\Users\Ahmed Osama\Desktop\New folder (3)\Ecommerce-master\Ecommerce-master\EcommerceAPI\EcommerceRepositories\bin\Debug\net6.0\EcommerceInterfaces.pdb
+C:\Users\Ahmed Osama\Desktop\New folder (3)\Ecommerce-master\Ecommerce-master\EcommerceAPI\EcommerceRepositories\bin\Debug\net6.0\EcommerceModels.pdb
+C:\Users\Ahmed Osama\Desktop\New folder (3)\Ecommerce-master\Ecommerce-master\EcommerceAPI\EcommerceRepositories\obj\Debug\net6.0\EcommerceRepositories.csproj.CopyComplete
+C:\Users\Ahmed Osama\Desktop\New folder (3)\Ecommerce-master\Ecommerce-master\EcommerceAPI\EcommerceRepositories\obj\Debug\net6.0\ref\EcommerceRepositories.dll
+C:\Users\Ahmed Osama\Desktop\New folder (3)\Ecommerce-master\ITIGraduation\EcommerceAPI\EcommerceRepositories\bin\Debug\net6.0\EcommerceRepositories.deps.json
+C:\Users\Ahmed Osama\Desktop\New folder (3)\Ecommerce-master\ITIGraduation\EcommerceAPI\EcommerceRepositories\bin\Debug\net6.0\EcommerceRepositories.dll
+C:\Users\Ahmed Osama\Desktop\New folder (3)\Ecommerce-master\ITIGraduation\EcommerceAPI\EcommerceRepositories\bin\Debug\net6.0\EcommerceRepositories.pdb
+C:\Users\Ahmed Osama\Desktop\New folder (3)\Ecommerce-master\ITIGraduation\EcommerceAPI\EcommerceRepositories\bin\Debug\net6.0\EcommerceInterfaces.dll
+C:\Users\Ahmed Osama\Desktop\New folder (3)\Ecommerce-master\ITIGraduation\EcommerceAPI\EcommerceRepositories\bin\Debug\net6.0\EcommerceModels.dll
+C:\Users\Ahmed Osama\Desktop\New folder (3)\Ecommerce-master\ITIGraduation\EcommerceAPI\EcommerceRepositories\bin\Debug\net6.0\EcommerceInterfaces.pdb
+C:\Users\Ahmed Osama\Desktop\New folder (3)\Ecommerce-master\ITIGraduation\EcommerceAPI\EcommerceRepositories\bin\Debug\net6.0\EcommerceModels.pdb
+C:\Users\Ahmed Osama\Desktop\New folder (3)\Ecommerce-master\ITIGraduation\EcommerceAPI\EcommerceRepositories\obj\Debug\net6.0\EcommerceRepositories.csproj.AssemblyReference.cache
+C:\Users\Ahmed Osama\Desktop\New folder (3)\Ecommerce-master\ITIGraduation\EcommerceAPI\EcommerceRepositories\obj\Debug\net6.0\EcommerceRepositories.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ahmed Osama\Desktop\New folder (3)\Ecommerce-master\ITIGraduation\EcommerceAPI\EcommerceRepositories\obj\Debug\net6.0\EcommerceRepositories.AssemblyInfoInputs.cache
+C:\Users\Ahmed Osama\Desktop\New folder (3)\Ecommerce-master\ITIGraduation\EcommerceAPI\EcommerceRepositories\obj\Debug\net6.0\EcommerceRepositories.AssemblyInfo.cs
+C:\Users\Ahmed Osama\Desktop\New folder (3)\Ecommerce-master\ITIGraduation\EcommerceAPI\EcommerceRepositories\obj\Debug\net6.0\EcommerceRepositories.csproj.CoreCompileInputs.cache
+C:\Users\Ahmed Osama\Desktop\New folder (3)\Ecommerce-master\ITIGraduation\EcommerceAPI\EcommerceRepositories\obj\Debug\net6.0\EcommerceRepositories.csproj.CopyComplete
+C:\Users\Ahmed Osama\Desktop\New folder (3)\Ecommerce-master\ITIGraduation\EcommerceAPI\EcommerceRepositories\obj\Debug\net6.0\EcommerceRepositories.dll
+C:\Users\Ahmed Osama\Desktop\New folder (3)\Ecommerce-master\ITIGraduation\EcommerceAPI\EcommerceRepositories\obj\Debug\net6.0\refint\EcommerceRepositories.dll
+C:\Users\Ahmed Osama\Desktop\New folder (3)\Ecommerce-master\ITIGraduation\EcommerceAPI\EcommerceRepositories\obj\Debug\net6.0\EcommerceRepositories.pdb
+C:\Users\Ahmed Osama\Desktop\New folder (3)\Ecommerce-master\ITIGraduation\EcommerceAPI\EcommerceRepositories\obj\Debug\net6.0\ref\EcommerceRepositories.dll
+C:\Users\Ahmed Osama\Desktop\ITIGraduation\EcommerceAPI\EcommerceRepositories\bin\Debug\net6.0\EcommerceRepositories.deps.json
+C:\Users\Ahmed Osama\Desktop\ITIGraduation\EcommerceAPI\EcommerceRepositories\bin\Debug\net6.0\EcommerceRepositories.dll
+C:\Users\Ahmed Osama\Desktop\ITIGraduation\EcommerceAPI\EcommerceRepositories\bin\Debug\net6.0\EcommerceRepositories.pdb
+C:\Users\Ahmed Osama\Desktop\ITIGraduation\EcommerceAPI\EcommerceRepositories\bin\Debug\net6.0\EcommerceInterfaces.dll
+C:\Users\Ahmed Osama\Desktop\ITIGraduation\EcommerceAPI\EcommerceRepositories\bin\Debug\net6.0\EcommerceModels.dll
+C:\Users\Ahmed Osama\Desktop\ITIGraduation\EcommerceAPI\EcommerceRepositories\bin\Debug\net6.0\EcommerceInterfaces.pdb
+C:\Users\Ahmed Osama\Desktop\ITIGraduation\EcommerceAPI\EcommerceRepositories\bin\Debug\net6.0\EcommerceModels.pdb
+C:\Users\Ahmed Osama\Desktop\ITIGraduation\EcommerceAPI\EcommerceRepositories\obj\Debug\net6.0\EcommerceRepositories.csproj.AssemblyReference.cache
+C:\Users\Ahmed Osama\Desktop\ITIGraduation\EcommerceAPI\EcommerceRepositories\obj\Debug\net6.0\EcommerceRepositories.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ahmed Osama\Desktop\ITIGraduation\EcommerceAPI\EcommerceRepositories\obj\Debug\net6.0\EcommerceRepositories.AssemblyInfoInputs.cache
+C:\Users\Ahmed Osama\Desktop\ITIGraduation\EcommerceAPI\EcommerceRepositories\obj\Debug\net6.0\EcommerceRepositories.AssemblyInfo.cs
+C:\Users\Ahmed Osama\Desktop\ITIGraduation\EcommerceAPI\EcommerceRepositories\obj\Debug\net6.0\EcommerceRepositories.csproj.CoreCompileInputs.cache
+C:\Users\Ahmed Osama\Desktop\ITIGraduation\EcommerceAPI\EcommerceRepositories\obj\Debug\net6.0\EcommerceRepositories.csproj.CopyComplete
+C:\Users\Ahmed Osama\Desktop\ITIGraduation\EcommerceAPI\EcommerceRepositories\obj\Debug\net6.0\EcommerceRepositories.dll
+C:\Users\Ahmed Osama\Desktop\ITIGraduation\EcommerceAPI\EcommerceRepositories\obj\Debug\net6.0\refint\EcommerceRepositories.dll
+C:\Users\Ahmed Osama\Desktop\ITIGraduation\EcommerceAPI\EcommerceRepositories\obj\Debug\net6.0\EcommerceRepositories.pdb
+C:\Users\Ahmed Osama\Desktop\ITIGraduation\EcommerceAPI\EcommerceRepositories\obj\Debug\net6.0\ref\EcommerceRepositories.dll

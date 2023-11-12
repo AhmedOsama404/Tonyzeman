@@ -1,0 +1,80 @@
+
+    
+    <div class="row mat-table " *ngIf="product" [@fadeInOut]>
+
+        <div class="row text-center">
+            <h2 class="product-name"> {{ product.productName }} </h2>
+        </div>
+          
+
+        <div class="col-4">
+            <img src="{{imgPath}}/Pictures/{{product.picture}}" class="img rounded" *ngIf="product" />
+          </div>
+          
+
+      <div class="col-8 rounded shadow-lg p-3">
+  
+          <!-- <div class="row border-bottom m-2">
+              <h4 class="col-5">Name :</h4>
+              <h4 class="col-7">{{ product.productName }}</h4>
+          </div> -->
+  
+          <div class="row border-bottom m-2">
+              <h4 class="col-5">Description :</h4>
+              <h4 class="col-7">{{ product.description }}</h4>
+          </div>
+  
+          <div class="row border-bottom m-2">
+              <h4 class="col-5">Category Name :</h4>
+              <h4 class="col-7">{{ product.categoryName }}</h4>
+          </div>
+  
+          <div class="row border-bottom m-2">
+              <h4 class="col-5">Available:</h4>
+              <h4 class="col-7">{{product.isAvailable ? 'Available': 'No Available'}}</h4>
+          </div>
+  
+
+
+
+          <ng-container *ngIf="role == 'admin'">
+            <div class="row border-bottom m-2">
+                <h4 class="col-5">Buy Price :</h4>
+                <h4 class="col-7">EG. {{ product.price }}</h4>
+            </div>
+          </ng-container>
+
+
+
+
+
+          <div class="row border-bottom m-2">
+              <h4 class="col-5">Sell Price :</h4>
+              <h4 class="col-7">EG. {{ product.sellPrice }}</h4>
+          </div>
+  
+         
+  
+          <div class="f-w d-flex justify-content-between p-4">
+
+              <!-- <a mat-raised-button color="primary" (click)="goToList()" (click)="onClose()"  class=""><mat-icon>arrow_back</mat-icon>Back to list</a> -->
+
+              <ng-container *ngIf="role == 'user' || role != 'user' && role != 'admin'" >
+                <a mat-raised-button color="primary" routerLink="/product-cart" (click)="onClose()"  class=""><mat-icon>arrow_back</mat-icon>Back to list</a>
+              </ng-container>
+
+              <ng-container *ngIf="role == 'admin'">
+                <a mat-raised-button color="primary" (click)="goToList()" (click)="onClose()"  class=""><mat-icon>arrow_back</mat-icon>Back to list</a>
+              </ng-container>
+
+              <ng-container *ngIf="role == 'admin'">
+                <button mat-raised-button color="primary" (click)="onClose()" (click)="onInsert()">Add More</button>
+              </ng-container>
+
+            
+          </div>
+  
+      </div>
+  </div>
+  
+

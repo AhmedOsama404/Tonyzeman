@@ -1,0 +1,58 @@
+<div class="outer row" [@fadeInOut]>
+  <mat-card class="mat-elevation-z3  p-5 col-6 m-auto" style="background-color: rgba(252, 254, 253, 0.5);">
+    <mat-card-header class="d-flex justify-content-center" >
+  
+      <img mat-card-avatar src="../../../../assets/users-svgrepo-com.svg" />
+  
+      <mat-card-title>Update Customers</mat-card-title>
+      <mat-card-subtitle>Update your customer</mat-card-subtitle>
+    </mat-card-header>
+    <mat-card-content>
+  
+      <form [formGroup]="customerForm" class="form-container p-4" (ngSubmit)="save()" style="background-color: rgba(252, 254, 253, 0.3);">
+
+        <mat-form-field appearance="fill" class="f-w">
+          <mat-label>Customer Name</mat-label>
+          <input matInput formControlName="customerName">
+          <mat-error *ngIf="customerForm.controls['customerName'].hasError('required')">
+            <strong>
+              Customer
+              name
+            </strong> required
+          </mat-error>
+          <mat-error *ngIf="customerForm.controls['customerName'].hasError('maxlength')">
+            <strong>
+              Customer
+              name
+            </strong> 40 chars max
+          </mat-error>
+        </mat-form-field>
+        <mat-form-field appearance="fill" class="f-w">
+          <mat-label>E-mail</mat-label>
+          <input matInput formControlName="email">
+          <mat-error *ngIf="customerForm.controls['email'].hasError('required')"><strong>E-mail</strong> required</mat-error>
+          <mat-error *ngIf="customerForm.controls['email'].hasError('maxlength')"><strong>E-mail</strong> 50 chars max</mat-error>
+          <mat-error *ngIf="customerForm.controls['email'].hasError('email')"><strong>E-mail</strong> not valid</mat-error>
+        </mat-form-field>
+        <mat-form-field appearance="fill" class="f-w">
+          <mat-label>Address</mat-label>
+          <textarea matInput formControlName="address"></textarea>
+          <mat-error *ngIf="customerForm.controls['address'].hasError('required')"><strong>Adress</strong> required</mat-error>
+        </mat-form-field>
+
+        <div class="f-w mt-4">
+
+          <button type="submit" mat-raised-button color="primary" [disabled]="customerForm.invalid"><mat-icon>update</mat-icon>  Update</button>
+        </div>
+      </form>
+  
+  
+    </mat-card-content>
+
+
+    <mat-card-actions class="d-flex justify-content-end" style="width: 95%;">
+      <a mat-flat-button color="accent" [routerLink]="['/customers']"><mat-icon>arrow_back</mat-icon></a>
+    </mat-card-actions>
+  </mat-card>
+  
+</div>

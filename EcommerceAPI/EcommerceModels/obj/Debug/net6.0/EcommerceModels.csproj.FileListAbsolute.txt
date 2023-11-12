@@ -1,0 +1,98 @@
+F:\Task\WebAPI\EcommerceAPI\EcommerceModels\bin\Debug\net6.0\EcommerceModels.deps.json
+F:\Task\WebAPI\EcommerceAPI\EcommerceModels\bin\Debug\net6.0\EcommerceModels.runtimeconfig.json
+F:\Task\WebAPI\EcommerceAPI\EcommerceModels\bin\Debug\net6.0\EcommerceModels.dll
+F:\Task\WebAPI\EcommerceAPI\EcommerceModels\bin\Debug\net6.0\EcommerceModels.pdb
+F:\Task\WebAPI\EcommerceAPI\EcommerceModels\obj\Debug\net6.0\EcommerceModels.csproj.AssemblyReference.cache
+F:\Task\WebAPI\EcommerceAPI\EcommerceModels\obj\Debug\net6.0\EcommerceModels.GeneratedMSBuildEditorConfig.editorconfig
+F:\Task\WebAPI\EcommerceAPI\EcommerceModels\obj\Debug\net6.0\EcommerceModels.AssemblyInfoInputs.cache
+F:\Task\WebAPI\EcommerceAPI\EcommerceModels\obj\Debug\net6.0\EcommerceModels.AssemblyInfo.cs
+F:\Task\WebAPI\EcommerceAPI\EcommerceModels\obj\Debug\net6.0\EcommerceModels.csproj.CoreCompileInputs.cache
+F:\Task\WebAPI\EcommerceAPI\EcommerceModels\obj\Debug\net6.0\EcommerceModels.dll
+F:\Task\WebAPI\EcommerceAPI\EcommerceModels\obj\Debug\net6.0\refint\EcommerceModels.dll
+F:\Task\WebAPI\EcommerceAPI\EcommerceModels\obj\Debug\net6.0\EcommerceModels.pdb
+F:\Task\WebAPI\EcommerceAPI\EcommerceModels\obj\Debug\net6.0\EcommerceModels.genruntimeconfig.cache
+F:\Task\WebAPI\EcommerceAPI\EcommerceModels\obj\Debug\net6.0\ref\EcommerceModels.dll
+F:\Task\WebAPI\LatestAPI\EcommerceModels\bin\Debug\net6.0\EcommerceModels.deps.json
+F:\Task\WebAPI\LatestAPI\EcommerceModels\bin\Debug\net6.0\EcommerceModels.runtimeconfig.json
+F:\Task\WebAPI\LatestAPI\EcommerceModels\bin\Debug\net6.0\EcommerceModels.dll
+F:\Task\WebAPI\LatestAPI\EcommerceModels\bin\Debug\net6.0\EcommerceModels.pdb
+F:\Task\WebAPI\LatestAPI\EcommerceModels\obj\Debug\net6.0\EcommerceModels.csproj.AssemblyReference.cache
+F:\Task\WebAPI\LatestAPI\EcommerceModels\obj\Debug\net6.0\EcommerceModels.GeneratedMSBuildEditorConfig.editorconfig
+F:\Task\WebAPI\LatestAPI\EcommerceModels\obj\Debug\net6.0\EcommerceModels.AssemblyInfoInputs.cache
+F:\Task\WebAPI\LatestAPI\EcommerceModels\obj\Debug\net6.0\EcommerceModels.AssemblyInfo.cs
+F:\Task\WebAPI\LatestAPI\EcommerceModels\obj\Debug\net6.0\EcommerceModels.csproj.CoreCompileInputs.cache
+F:\Task\WebAPI\LatestAPI\EcommerceModels\obj\Debug\net6.0\EcommerceModels.dll
+F:\Task\WebAPI\LatestAPI\EcommerceModels\obj\Debug\net6.0\refint\EcommerceModels.dll
+F:\Task\WebAPI\LatestAPI\EcommerceModels\obj\Debug\net6.0\EcommerceModels.pdb
+F:\Task\WebAPI\LatestAPI\EcommerceModels\obj\Debug\net6.0\EcommerceModels.genruntimeconfig.cache
+F:\Task\WebAPI\LatestAPI\EcommerceModels\obj\Debug\net6.0\ref\EcommerceModels.dll
+F:\Task\WebAPI\Perfect\EcommerceModels\bin\Debug\net6.0\EcommerceModels.deps.json
+F:\Task\WebAPI\Perfect\EcommerceModels\bin\Debug\net6.0\EcommerceModels.runtimeconfig.json
+F:\Task\WebAPI\Perfect\EcommerceModels\bin\Debug\net6.0\EcommerceModels.dll
+F:\Task\WebAPI\Perfect\EcommerceModels\bin\Debug\net6.0\EcommerceModels.pdb
+F:\Task\WebAPI\Perfect\EcommerceModels\obj\Debug\net6.0\EcommerceModels.csproj.AssemblyReference.cache
+F:\Task\WebAPI\Perfect\EcommerceModels\obj\Debug\net6.0\EcommerceModels.GeneratedMSBuildEditorConfig.editorconfig
+F:\Task\WebAPI\Perfect\EcommerceModels\obj\Debug\net6.0\EcommerceModels.AssemblyInfoInputs.cache
+F:\Task\WebAPI\Perfect\EcommerceModels\obj\Debug\net6.0\EcommerceModels.AssemblyInfo.cs
+F:\Task\WebAPI\Perfect\EcommerceModels\obj\Debug\net6.0\EcommerceModels.csproj.CoreCompileInputs.cache
+F:\Task\WebAPI\Perfect\EcommerceModels\obj\Debug\net6.0\EcommerceModels.dll
+F:\Task\WebAPI\Perfect\EcommerceModels\obj\Debug\net6.0\refint\EcommerceModels.dll
+F:\Task\WebAPI\Perfect\EcommerceModels\obj\Debug\net6.0\EcommerceModels.pdb
+F:\Task\WebAPI\Perfect\EcommerceModels\obj\Debug\net6.0\EcommerceModels.genruntimeconfig.cache
+F:\Task\WebAPI\Perfect\EcommerceModels\obj\Debug\net6.0\ref\EcommerceModels.dll
+G:\Ecommerce\EcommerceAPI\EcommerceModels\bin\Debug\net6.0\EcommerceModels.deps.json
+G:\Ecommerce\EcommerceAPI\EcommerceModels\bin\Debug\net6.0\EcommerceModels.runtimeconfig.json
+G:\Ecommerce\EcommerceAPI\EcommerceModels\bin\Debug\net6.0\EcommerceModels.dll
+G:\Ecommerce\EcommerceAPI\EcommerceModels\bin\Debug\net6.0\EcommerceModels.pdb
+G:\Ecommerce\EcommerceAPI\EcommerceModels\obj\Debug\net6.0\EcommerceModels.csproj.AssemblyReference.cache
+G:\Ecommerce\EcommerceAPI\EcommerceModels\obj\Debug\net6.0\EcommerceModels.GeneratedMSBuildEditorConfig.editorconfig
+G:\Ecommerce\EcommerceAPI\EcommerceModels\obj\Debug\net6.0\EcommerceModels.AssemblyInfoInputs.cache
+G:\Ecommerce\EcommerceAPI\EcommerceModels\obj\Debug\net6.0\EcommerceModels.AssemblyInfo.cs
+G:\Ecommerce\EcommerceAPI\EcommerceModels\obj\Debug\net6.0\EcommerceModels.csproj.CoreCompileInputs.cache
+G:\Ecommerce\EcommerceAPI\EcommerceModels\obj\Debug\net6.0\EcommerceModels.dll
+G:\Ecommerce\EcommerceAPI\EcommerceModels\obj\Debug\net6.0\refint\EcommerceModels.dll
+G:\Ecommerce\EcommerceAPI\EcommerceModels\obj\Debug\net6.0\EcommerceModels.pdb
+G:\Ecommerce\EcommerceAPI\EcommerceModels\obj\Debug\net6.0\EcommerceModels.genruntimeconfig.cache
+G:\Ecommerce\EcommerceAPI\EcommerceModels\obj\Debug\net6.0\ref\EcommerceModels.dll
+C:\Users\Ahmed Osama\Desktop\New folder (3)\Ecommerce-master\Ecommerce-master\EcommerceAPI\EcommerceModels\obj\Debug\net6.0\EcommerceModels.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ahmed Osama\Desktop\New folder (3)\Ecommerce-master\Ecommerce-master\EcommerceAPI\EcommerceModels\obj\Debug\net6.0\EcommerceModels.AssemblyInfoInputs.cache
+C:\Users\Ahmed Osama\Desktop\New folder (3)\Ecommerce-master\Ecommerce-master\EcommerceAPI\EcommerceModels\obj\Debug\net6.0\EcommerceModels.AssemblyInfo.cs
+C:\Users\Ahmed Osama\Desktop\New folder (3)\Ecommerce-master\Ecommerce-master\EcommerceAPI\EcommerceModels\obj\Debug\net6.0\EcommerceModels.csproj.CoreCompileInputs.cache
+C:\Users\Ahmed Osama\Desktop\New folder (3)\Ecommerce-master\Ecommerce-master\EcommerceAPI\EcommerceModels\obj\Debug\net6.0\EcommerceModels.dll
+C:\Users\Ahmed Osama\Desktop\New folder (3)\Ecommerce-master\Ecommerce-master\EcommerceAPI\EcommerceModels\obj\Debug\net6.0\refint\EcommerceModels.dll
+C:\Users\Ahmed Osama\Desktop\New folder (3)\Ecommerce-master\Ecommerce-master\EcommerceAPI\EcommerceModels\obj\Debug\net6.0\EcommerceModels.pdb
+C:\Users\Ahmed Osama\Desktop\New folder (3)\Ecommerce-master\Ecommerce-master\EcommerceAPI\EcommerceModels\bin\Debug\net6.0\EcommerceModels.deps.json
+C:\Users\Ahmed Osama\Desktop\New folder (3)\Ecommerce-master\Ecommerce-master\EcommerceAPI\EcommerceModels\bin\Debug\net6.0\EcommerceModels.runtimeconfig.json
+C:\Users\Ahmed Osama\Desktop\New folder (3)\Ecommerce-master\Ecommerce-master\EcommerceAPI\EcommerceModels\bin\Debug\net6.0\EcommerceModels.dll
+C:\Users\Ahmed Osama\Desktop\New folder (3)\Ecommerce-master\Ecommerce-master\EcommerceAPI\EcommerceModels\bin\Debug\net6.0\EcommerceModels.pdb
+C:\Users\Ahmed Osama\Desktop\New folder (3)\Ecommerce-master\Ecommerce-master\EcommerceAPI\EcommerceModels\obj\Debug\net6.0\EcommerceModels.csproj.AssemblyReference.cache
+C:\Users\Ahmed Osama\Desktop\New folder (3)\Ecommerce-master\Ecommerce-master\EcommerceAPI\EcommerceModels\obj\Debug\net6.0\EcommerceModels.genruntimeconfig.cache
+C:\Users\Ahmed Osama\Desktop\New folder (3)\Ecommerce-master\Ecommerce-master\EcommerceAPI\EcommerceModels\obj\Debug\net6.0\ref\EcommerceModels.dll
+C:\Users\Ahmed Osama\Desktop\New folder (3)\Ecommerce-master\ITIGraduation\EcommerceAPI\EcommerceModels\bin\Debug\net6.0\EcommerceModels.deps.json
+C:\Users\Ahmed Osama\Desktop\New folder (3)\Ecommerce-master\ITIGraduation\EcommerceAPI\EcommerceModels\bin\Debug\net6.0\EcommerceModels.runtimeconfig.json
+C:\Users\Ahmed Osama\Desktop\New folder (3)\Ecommerce-master\ITIGraduation\EcommerceAPI\EcommerceModels\bin\Debug\net6.0\EcommerceModels.dll
+C:\Users\Ahmed Osama\Desktop\New folder (3)\Ecommerce-master\ITIGraduation\EcommerceAPI\EcommerceModels\bin\Debug\net6.0\EcommerceModels.pdb
+C:\Users\Ahmed Osama\Desktop\New folder (3)\Ecommerce-master\ITIGraduation\EcommerceAPI\EcommerceModels\obj\Debug\net6.0\EcommerceModels.csproj.AssemblyReference.cache
+C:\Users\Ahmed Osama\Desktop\New folder (3)\Ecommerce-master\ITIGraduation\EcommerceAPI\EcommerceModels\obj\Debug\net6.0\EcommerceModels.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ahmed Osama\Desktop\New folder (3)\Ecommerce-master\ITIGraduation\EcommerceAPI\EcommerceModels\obj\Debug\net6.0\EcommerceModels.AssemblyInfoInputs.cache
+C:\Users\Ahmed Osama\Desktop\New folder (3)\Ecommerce-master\ITIGraduation\EcommerceAPI\EcommerceModels\obj\Debug\net6.0\EcommerceModels.AssemblyInfo.cs
+C:\Users\Ahmed Osama\Desktop\New folder (3)\Ecommerce-master\ITIGraduation\EcommerceAPI\EcommerceModels\obj\Debug\net6.0\EcommerceModels.csproj.CoreCompileInputs.cache
+C:\Users\Ahmed Osama\Desktop\New folder (3)\Ecommerce-master\ITIGraduation\EcommerceAPI\EcommerceModels\obj\Debug\net6.0\EcommerceModels.dll
+C:\Users\Ahmed Osama\Desktop\New folder (3)\Ecommerce-master\ITIGraduation\EcommerceAPI\EcommerceModels\obj\Debug\net6.0\refint\EcommerceModels.dll
+C:\Users\Ahmed Osama\Desktop\New folder (3)\Ecommerce-master\ITIGraduation\EcommerceAPI\EcommerceModels\obj\Debug\net6.0\EcommerceModels.pdb
+C:\Users\Ahmed Osama\Desktop\New folder (3)\Ecommerce-master\ITIGraduation\EcommerceAPI\EcommerceModels\obj\Debug\net6.0\EcommerceModels.genruntimeconfig.cache
+C:\Users\Ahmed Osama\Desktop\New folder (3)\Ecommerce-master\ITIGraduation\EcommerceAPI\EcommerceModels\obj\Debug\net6.0\ref\EcommerceModels.dll
+C:\Users\Ahmed Osama\Desktop\ITIGraduation\EcommerceAPI\EcommerceModels\bin\Debug\net6.0\EcommerceModels.deps.json
+C:\Users\Ahmed Osama\Desktop\ITIGraduation\EcommerceAPI\EcommerceModels\bin\Debug\net6.0\EcommerceModels.runtimeconfig.json
+C:\Users\Ahmed Osama\Desktop\ITIGraduation\EcommerceAPI\EcommerceModels\bin\Debug\net6.0\EcommerceModels.dll
+C:\Users\Ahmed Osama\Desktop\ITIGraduation\EcommerceAPI\EcommerceModels\bin\Debug\net6.0\EcommerceModels.pdb
+C:\Users\Ahmed Osama\Desktop\ITIGraduation\EcommerceAPI\EcommerceModels\obj\Debug\net6.0\EcommerceModels.csproj.AssemblyReference.cache
+C:\Users\Ahmed Osama\Desktop\ITIGraduation\EcommerceAPI\EcommerceModels\obj\Debug\net6.0\EcommerceModels.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ahmed Osama\Desktop\ITIGraduation\EcommerceAPI\EcommerceModels\obj\Debug\net6.0\EcommerceModels.AssemblyInfoInputs.cache
+C:\Users\Ahmed Osama\Desktop\ITIGraduation\EcommerceAPI\EcommerceModels\obj\Debug\net6.0\EcommerceModels.AssemblyInfo.cs
+C:\Users\Ahmed Osama\Desktop\ITIGraduation\EcommerceAPI\EcommerceModels\obj\Debug\net6.0\EcommerceModels.csproj.CoreCompileInputs.cache
+C:\Users\Ahmed Osama\Desktop\ITIGraduation\EcommerceAPI\EcommerceModels\obj\Debug\net6.0\EcommerceModels.dll
+C:\Users\Ahmed Osama\Desktop\ITIGraduation\EcommerceAPI\EcommerceModels\obj\Debug\net6.0\refint\EcommerceModels.dll
+C:\Users\Ahmed Osama\Desktop\ITIGraduation\EcommerceAPI\EcommerceModels\obj\Debug\net6.0\EcommerceModels.pdb
+C:\Users\Ahmed Osama\Desktop\ITIGraduation\EcommerceAPI\EcommerceModels\obj\Debug\net6.0\EcommerceModels.genruntimeconfig.cache
+C:\Users\Ahmed Osama\Desktop\ITIGraduation\EcommerceAPI\EcommerceModels\obj\Debug\net6.0\ref\EcommerceModels.dll

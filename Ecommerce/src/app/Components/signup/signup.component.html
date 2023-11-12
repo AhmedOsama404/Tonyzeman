@@ -1,0 +1,164 @@
+<div class="outer" [@fadeInOut]>
+  <div class="container">
+    <div class="row pt-2">
+      <div class="col-6 m-auto">
+        <div class="mt-5">
+          <div class="d-flex justify-content-center">
+            <h1 class="text-center">Signup..</h1>
+          </div>
+
+          <nav
+            class="navbar p-3 shadow rounded mt-3 mb-5"
+            style="background-color: rgba(252, 254, 253, 0.5)"
+          >
+            <form class="container-fluid p-4 row" [formGroup]="signupForm">
+              <div class="input-group p-1 col-12">
+                <span
+                  class="input-group-text fa fa-user text-primary"
+                  id="basic-addon1"
+                ></span>
+                <input
+                  type="text"
+                  class="form-control text-primary shadow"
+                  placeholder="First Name"
+                  aria-label="FirstName"
+                  aria-describedby="basic-addon1"
+                  formControlName="firstName"
+                />
+              </div>
+              <div class="col-12">
+                <h4
+                  *ngIf="
+                    signupForm.controls['firstName'].dirty &&
+                    signupForm.hasError('required', 'firstName')
+                  "
+                  class="text-danger col-form-label"
+                >
+                  First Name is Required
+                </h4>
+              </div>
+
+              <div class="input-group p-1 col-12">
+                <span
+                  class="input-group-text fa fa-user text-primary"
+                  id="basic-addon2"
+                ></span>
+                <input
+                  type="text"
+                  class="form-control text-primary shadow"
+                  placeholder="Last Name"
+                  aria-label="LastName"
+                  aria-describedby="basic-addon2"
+                  formControlName="lastName"
+                />
+              </div>
+              <div class="col-12">
+                <h4
+                  *ngIf="
+                    signupForm.controls['lastName'].dirty &&
+                    signupForm.hasError('required', 'lastName')
+                  "
+                  class="text-danger col-form-label"
+                >
+                  Last Name is Required
+                </h4>
+              </div>
+
+              <div class="input-group p-1">
+                <span
+                  class="input-group-text fa fa-envelope text-primary font-weight-bold"
+                  id="basic-addon3"
+                ></span>
+                <input
+                  type="email"
+                  class="form-control text-primary shadow"
+                  placeholder="Email"
+                  aria-label="Email"
+                  aria-describedby="basic-addon3"
+                  formControlName="email"
+                />
+              </div>
+              <div class="col-12">
+                <h4
+                  *ngIf="
+                    signupForm.controls['email'].dirty &&
+                    signupForm.hasError('required', 'email')
+                  "
+                  class="text-danger col-form-label"
+                >
+                  Email is Required
+                </h4>
+              </div>
+
+              <div class="input-group p-1">
+                <span
+                  class="input-group-text fa fa-user text-primary"
+                  id="basic-addon4"
+                ></span>
+                <input
+                  type="text"
+                  class="form-control text-primary shadow"
+                  placeholder="Username"
+                  aria-label="Username"
+                  aria-describedby="basic-addon4"
+                  formControlName="userName"
+                />
+              </div>
+              <div class="col-12">
+                <h4
+                  *ngIf="
+                    signupForm.controls['userName'].dirty &&
+                    signupForm.hasError('required', 'userName')
+                  "
+                  class="text-danger col-form-label"
+                >
+                  User Name is Requiredz
+                </h4>
+              </div>
+
+              <div class="input-group p-1">
+                <span
+                  class="input-group-text fa fa-lock text-primary"
+                  id="basic-addon5"
+                ></span>
+                <input
+                  type="password"
+                  class="form-control text-primary shadow"
+                  placeholder="Password"
+                  aria-label="Password"
+                  aria-describedby="basic-addon5"
+                  formControlName="password"
+                />
+              </div>
+              <div class="col-12">
+                <h4
+                  *ngIf="
+                    signupForm.controls['password'].dirty &&
+                    signupForm.hasError('required', 'password')
+                  "
+                  class="text-danger col-form-label"
+                >
+                  Password is Required
+                </h4>
+              </div>
+
+              <button
+                (click)="onSubmit()"
+                [disabled]="signupForm.invalid"
+                type="submit"
+                class="btn btn-primary btn-block w-100 mt-4 p-2 shadow-lg"
+              >
+                Sign up
+              </button>
+
+              <div class="p-2 text-center col text-muted">
+                Already have account
+                <a routerLink="/login">Login</a>
+              </div>
+            </form>
+          </nav>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>

@@ -1,0 +1,186 @@
+.checkout-page {
+    max-width: 1000px;
+    margin: 0 auto;
+    padding: 30px;
+    font-family: Arial, sans-serif;
+    background-color: rgba(252, 254, 253, 0.5);
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    border-radius: 10px;
+    }
+    
+    .checkout-header {
+    text-align: center;
+    margin-bottom: 30px;
+    }
+    
+    .checkout-header h1 {
+    font-size: 36px;
+    margin-bottom: 10px;
+    }
+    
+    .checkout-header p {
+    font-size: 18px;
+    color: #666;
+    }
+    
+    .billing-information {
+    margin-bottom: 30px;
+    }
+    
+    .billing-information h2 {
+    font-size: 24px;
+    margin-bottom: 20px;
+    }
+    
+    .billing-information form {
+    display: flex;
+    flex-wrap: wrap;
+    }
+    
+    .billing-information label {
+    font-size: 18px;
+    width: 100%;
+    margin-bottom: 5px;
+    }
+    
+    .billing-information input {
+    font-size: 18px;
+    padding: 10px;
+    width: 100%;
+    border-radius: 5px;
+    border: none;
+    margin-bottom: 20px;
+    }
+    
+    .order-summary {
+    margin-bottom: 30px;
+    }
+    
+    .order-summary h2 {
+    font-size: 24px;
+    margin-bottom: 20px;
+    }
+    
+    .order-summary table {
+    width: 100%;
+    border-collapse: collapse;
+    }
+    
+    .order-summary th,
+    .order-summary td {
+    text-align: left;
+    padding: 10px;
+    border-bottom: 1px solid #ccc;
+    }
+    
+    .order-summary th:first-child,
+    .order-summary td:first-child {
+    width: 5%;
+    }
+    
+    .order-summary th:nth-child(2),
+    .order-summary td:nth-child(2) {
+    width: 35%;
+    }
+    
+    .order-summary th:nth-child(3),
+    .order-summary td:nth-child(3) {
+    width: 15%;
+    }
+    
+    .order-summary th:nth-child(4),
+    .order-summary td:nth-child(4) {
+    width: 10%;
+    }
+    
+    .order-summary th:nth-child(5),
+    .order-summary td:nth-child(5),
+    .order-summary th:last-child,
+    .order-summary td:last-child {
+    width: 15%;
+    }
+    
+    .order-summary .profile-pic img {
+    border-radius: 10px;
+    }
+    
+    .order-summary-footer {
+    margin-top: 30px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    flex-wrap: wrap;
+    }
+    
+    .order-summary-footer label {
+    font-size: 18px;
+    margin-right: 10px;
+    }
+    
+    .order-summary-footer select {
+    font-size: 18px;
+    padding: 10px;
+    border-radius: 5px;
+    border: none;
+    margin-right: 20px;
+    }
+    
+    .order-summary-footer ul {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    font-size: 18px;
+    text-align: right;
+    }
+    
+    .order-summary-footer li {
+    margin-bottom: 10px;
+    }
+    
+    .checkout-footer {
+    text-align: center;
+    }
+    
+    .checkout-footer button {
+    font-size: 24px;
+    padding: 10px 20px;
+    border-radius: 5px;
+    border: none;
+    background-color: #4CAF50;
+    color: #fff;
+    cursor: pointer;
+    transition: all 0.3s ease;
+    }
+    
+    .checkout-footer button:hover {
+    background-color: #3e8e41;
+    }
+
+
+
+
+
+    /* ----------------------------- */
+
+    .form-container {
+        width: 90%;
+        max-width: 700px;
+        margin: 0 auto;
+        background-color: #f9f9f9;
+        padding: 20px;
+        border-radius: 10px;
+        box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1);
+      }
+      
+      .f-w {
+        width: 100%;
+        margin-bottom: 10px;
+      }
+      
+      @media screen and (max-width: 600px) {
+        .form-container {
+          width: 95%;
+          max-width: none;
+        }
+      }
+      

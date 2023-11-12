@@ -1,0 +1,76 @@
+
+.confirmation-dialog {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    width: 450px;
+    height: 200px;
+    border-radius: 4px;
+    /* background-color: white; */
+    background-color: rgba(252, 254, 253, 0.3);
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.3);
+    animation: dialogEnterAnimation 0.5s cubic-bezier(0.35, 0, 0.25, 1) both;
+  }
+  
+  .confirmation-dialog-title {
+    font-size: 24px;
+    font-weight: bold;
+    margin: 16px;
+    color: red;
+  }
+  
+  .confirmation-dialog-content {
+    font-size: 16px;
+    margin: 16px;
+  }
+  
+  .confirmation-dialog-actions {
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-end;
+    margin: 16px;
+  }
+  
+  .confirmation-dialog-cancel-button {
+    margin-right: 8px;
+  }
+  
+  .confirmation-dialog-confirm-button {
+    background-color: red;
+    color: white;
+  }
+  
+  @keyframes dialogEnterAnimation {
+    from {
+      transform: translateY(-50%);
+      opacity: 0;
+    }
+    to {
+      transform: translateY(0);
+      opacity: 1;
+    }
+  }
+  
+  @keyframes dialogLeaveAnimation {
+    from {
+      transform: translateY(0);
+      opacity: 1;
+    }
+    to {
+      transform: translateY(-50%);
+      opacity: 0;
+    }
+  }
+  
+  .confirmation-dialog.ng-trigger.ng-trigger-dialogAnimation {
+    transition: all 0.5s cubic-bezier(0.35, 0, 0.25, 1);
+  }
+  
+  .confirmation-dialog.ng-trigger.ng-trigger-dialogAnimation.enter {
+    animation: dialogEnterAnimation 0.5s cubic-bezier(0.35, 0, 0.25, 1) both;
+  }
+  
+  .confirmation-dialog.ng-trigger.ng-trigger-dialogAnimation.leave {
+    animation: dialogLeaveAnimation 0.5s cubic-bezier(0.35, 0, 0.25, 1) both;
+  }

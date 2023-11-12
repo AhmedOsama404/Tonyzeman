@@ -1,0 +1,167 @@
+<div class="outer">
+  
+<div class="checkout-page">
+  <div class="checkout-header">
+    <h1>{{ fullName$ | async }}</h1>
+    <p>Please checkout your orders</p>
+  </div>
+  <div class="checkout-body">
+
+    <div class="order-summary">
+      <h2>Order Summary</h2>
+      <table class="table table-responsive">
+        <thead>
+          <tr>
+            <th>Sr.No</th>
+            <th>Product Name</th>
+            <th>Picture</th>
+            <th>Quantity</th>
+            <th>Price</th>
+            <th>Total</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr *ngFor="let item of products; let i = index">
+            <td>{{i+1}}</td>
+            <td>{{item.productName}}</td>
+            <td class="profile-pic">
+              <img src="{{picPath}}/{{item.picture}}" alt="Profile Picture" height="80px" width="80px" style="border-radius: 10px;" />
+            </td>
+            <td>{{item.quantity}}</td>
+            <td>{{item.sellPrice}}</td>
+            <td>{{item.total}}</td>
+          </tr>
+        </tbody>
+      </table>
+
+
+      <div class="d-flex justify-content-between">
+        <button routerLink="/product-cart" class="btn btn-primary">
+          <i class="fas fa-shopping-cart"></i> Shop More
+      </button>
+
+      <button routerLink="/cart" class="btn btn-primary">
+        <i class="fas fa-shopping-cart"></i> Edit Cart
+      </button>
+
+      </div>
+
+      <div class="order-summary-footer">
+        <div class="row mt-2">
+            <div class="col-12">
+                <div class="shipping-info">
+                  <label for="payment-method">Select Payment Method:</label>
+                  <select id="payment-method" name="payment-method">
+                      <option value="credit-card">Cash on delivery</option>
+                  </select>
+                </div>
+            </div>
+        </div>
+    
+        <div class="row">
+           
+            <div class="col-8">
+
+              <label for="shipping-method">Select :</label>
+    
+              <select id="shipping-method" name="shipping-method" (change)="calculateShippingCost()">
+                  <option value="standard">Standard Shipping (5-7 days)</option>
+                  <option value="expedited">Expedited Shipping (2-3 days)</option>
+              </select>
+
+               
+            </div>
+
+            <div class="col-4">
+              <ul>
+                  <li>Subtotal: {{cartTotal}}</li>
+                  <li>Shipping: {{shippingCost}}</li>
+                  <li>Total: {{getTotalCost()}}</li>
+              </ul>
+          </div>
+
+        </div>
+    </div>
+    
+</div>
+
+
+
+  <div class="billing-information">
+    <h2 class="text-center">Billing Information</h2>
+    
+    <form [formGroup]="orderForm" class="form-container p-4 shadow" style="background-color: rgba(252, 254, 253, 0.3);">
+
+      <mat-form-field appearance="fill" class="f-w mb-1">
+        <mat-label>Name</mat-label>
+        <input matInput formControlName="name">
+        <mat-error *ngIf="orderForm.controls['name'].hasError('required')">
+          <strong>Name</strong> required
+        </mat-error>
+      </mat-form-field>
+    
+      <mat-form-field appearance="fill" class="f-w mb-1">
+        <mat-label>Email</mat-label>
+        <input matInput formControlName="email">
+        <mat-error *ngIf="orderForm.controls['email'].hasError('required')">
+          <strong>Email</strong> required
+        </mat-error>
+      </mat-form-field>
+    
+      <mat-form-field appearance="fill" class="f-w mb-1">
+        <mat-label>Address</mat-label>
+        <input matInput formControlName="address">
+        <mat-error *ngIf="orderForm.controls['address'].hasError('required')">
+          <strong>Address</strong> required
+        </mat-error>
+      </mat-form-field>
+    
+      <mat-form-field appearance="fill" class="f-w mb-1">
+        <mat-label>City</mat-label>
+        <input matInput formControlName="city">
+        <mat-error *ngIf="orderForm.controls['city'].hasError('required')">
+          <strong>City</strong> required
+        </mat-error>
+      </mat-form-field>
+    
+      <mat-form-field appearance="fill" class="f-w mb-1">
+        <mat-label>State</mat-label>
+        <input matInput formControlName="state">
+        <mat-error *ngIf="orderForm.controls['state'].hasError('required')">
+          <strong>State</strong> required
+        </mat-error>
+      </mat-form-field>
+    
+      <mat-form-field appearance="fill" class="f-w mb-1">
+        <mat-label>Zip</mat-label>
+        <input matInput formControlName="zip" type="number">
+        <mat-error *ngIf="orderForm.controls['zip'].hasError('required')">
+          <strong>Zip</strong> required
+        </mat-error>
+      </mat-form-field>
+    
+      <mat-form-field appearance="fill" class="f-w mb-1">
+        <mat-label>Phone</mat-label>
+        <input matInput formControlName="phone" type="number">
+        <mat-error *ngIf="orderForm.controls['phone'].hasError('required')">
+          <strong>Phone</strong> required
+        </mat-error>
+      </mat-form-field>
+    
+      <div class="f-w mt-4">
+        <button type="submit" (click)="placeOrder()" mat-raised-button color="primary" [disabled]="orderForm.invalid"> Place Order</button>
+      </div>
+    
+    </form>
+    
+    
+  </div>
+</div>
+</div>
+
+
+
+
+
+
+</div>
